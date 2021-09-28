@@ -1,0 +1,28 @@
+body{
+    background: #020233
+  }
+  h1{
+    color:#11450f;
+    font-size: 45px;
+  text-align:left;
+  font-family: 'Merriweather', serif;
+  }
+  #quote{
+    color:whitesmoke;
+  font-family: 'Lobster', cursive;
+  }
+  h2{
+    color:white;
+    font-size:23px;
+    text-align: center;
+  font-family: 'Merriweather', serif;
+  }
+  p{
+    color:#11450f;
+    font-size:23px;
+    font-family: 'Cormorant Garamond', serif;
+    }
+  #info {
+    text-decoration: underline;
+    font-family: 'Merriweather', serif;
+  }
